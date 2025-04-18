@@ -1,11 +1,11 @@
 Quant
-Project Link: Quant AI
-YouTube Demo: Watch Here
+Project Link:[ Quant AI](https://quant-ai.vercel.app/)
+YouTube Demo: [Watch Here](https://www.youtube.com/watch?v=MLqrxzlu2KQ)
 
-Description
+Description:
 Quant is a powerful tool designed to analyze social media accounts for engagement and reach. It provides users with actionable insights to improve their social media presence. By simply entering a username, Quant automates the process of reviewing posts and analyzing account activity, saving users from the tedious task of manual evaluation.
 
-Key Features
+Key Features:
 Analyze real-time data of social media accounts and posts.
 Generate insights for improving engagement and reach.
 Provide relevant analysis points based on social media presence.
